@@ -4,6 +4,8 @@ My Name is Peter, I am a Mobile Developer.
 
 ![Petyr's GitHub stats](https://github-readme-stats.vercel.app/api?username=petyr47&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petyr47)](https://github.com/petyr47/github-readme-stats)
+
 
 <!--
 **petyr47/petyr47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
