@@ -1,5 +1,6 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My Name is Peter, I am a Mobile Developer.
+Check out some of my articles on [Hackernoon](https://hackernoon.com/u/petyr)
 
 
 ![Petyr's GitHub stats](https://github-readme-stats.vercel.app/api?username=petyr47&show_icons=true&theme=radical)
