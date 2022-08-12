@@ -6,7 +6,10 @@ Check out some of my articles on [Hackernoon](https://hackernoon.com/u/petyr)
 
 ![Petyr's GitHub stats](https://github-readme-stats.vercel.app/api?username=petyr47&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petyr47)](https://github.com/petyr47/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petyr47&langs_count=10)](https://github.com/petyr47/github-readme-stats)
+
+
 
 
 <!--
